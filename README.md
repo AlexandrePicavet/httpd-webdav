@@ -44,3 +44,4 @@ docker run -d \
 ./build TAG
 ```
 
+:warning: WebDAV locking mechanism is not available when using alpine-based image.
